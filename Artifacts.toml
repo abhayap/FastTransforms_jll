@@ -1,0 +1,143 @@
+[[FastTransforms]]
+arch = "aarch64"
+git-tree-sha1 = "57a2f1346338d979e2335cf92a633e14edffb49c"
+os = "macos"
+
+    [[FastTransforms.download]]
+    sha256 = "25cef023933120643b210e953fa8add7868cf69cfeaeeb3eeb881b44aacb445e"
+    url = "https://github.com/abhayap/FastTransforms_jll/releases/download/FastTransforms-v0.5.2+0/FastTransforms.v0.5.2.aarch64-apple-darwin.tar.gz"
+[[FastTransforms]]
+arch = "aarch64"
+git-tree-sha1 = "848528e8bd2222ed1efc51aabb04a634440ec64e"
+libc = "glibc"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "a9b40eb9f154eedc67370ee591ef7d5e01da36668d736fc4aa4f1d7a2e06206c"
+    url = "https://github.com/abhayap/FastTransforms_jll/releases/download/FastTransforms-v0.5.2+0/FastTransforms.v0.5.2.aarch64-linux-gnu.tar.gz"
+[[FastTransforms]]
+arch = "aarch64"
+git-tree-sha1 = "06055e440fd99f813dcfa4e4822c02ea7647490b"
+libc = "musl"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "a1c4196c086616fadd7241c6d17731d183b282415f886a1fd33ea95b73532027"
+    url = "https://github.com/abhayap/FastTransforms_jll/releases/download/FastTransforms-v0.5.2+0/FastTransforms.v0.5.2.aarch64-linux-musl.tar.gz"
+[[FastTransforms]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0a36c41f912241a4d11724c0e3a571f10b145439"
+libc = "glibc"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "3b2f5d98596fa074414ab3d220f06b9a9020c4409280f7aa98e0b89f91997dd9"
+    url = "https://github.com/abhayap/FastTransforms_jll/releases/download/FastTransforms-v0.5.2+0/FastTransforms.v0.5.2.armv6l-linux-gnueabihf.tar.gz"
+[[FastTransforms]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "fce8ec0df02645198f16c89408d0932133cc5719"
+libc = "musl"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "8113639b837e0508cda42ca337db7d747dfab9e9a8dd42d39018066034076628"
+    url = "https://github.com/abhayap/FastTransforms_jll/releases/download/FastTransforms-v0.5.2+0/FastTransforms.v0.5.2.armv6l-linux-musleabihf.tar.gz"
+[[FastTransforms]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9d90770e0de411337790f3887c9118d56e33608a"
+libc = "glibc"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "29223679d900da0f7ea01f764af3e1b9d52c6ee40e81623a870f1ff51700e68a"
+    url = "https://github.com/abhayap/FastTransforms_jll/releases/download/FastTransforms-v0.5.2+0/FastTransforms.v0.5.2.armv7l-linux-gnueabihf.tar.gz"
+[[FastTransforms]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "76d43c53d8c1365b77ba2a035aee01296ada189e"
+libc = "musl"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "323fbcf785376808c962e6c0e6a8a26fd36b3ad0d0f2fe4c3c38683a824959c2"
+    url = "https://github.com/abhayap/FastTransforms_jll/releases/download/FastTransforms-v0.5.2+0/FastTransforms.v0.5.2.armv7l-linux-musleabihf.tar.gz"
+[[FastTransforms]]
+arch = "i686"
+git-tree-sha1 = "7757301a36d96dec354fcf5ea4ca6d28b1dfe3d9"
+libc = "glibc"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "af08c79ec626afc4ecf6486867c430a0484c0fbc7e18cffda07e845f457767be"
+    url = "https://github.com/abhayap/FastTransforms_jll/releases/download/FastTransforms-v0.5.2+0/FastTransforms.v0.5.2.i686-linux-gnu.tar.gz"
+[[FastTransforms]]
+arch = "i686"
+git-tree-sha1 = "1c8a94678e122cab271813cf7d9495a5011490f3"
+libc = "musl"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "d453b28c82c7aa08c39445f10dbf6863cb354bc0b7d529859dfca71459312cdc"
+    url = "https://github.com/abhayap/FastTransforms_jll/releases/download/FastTransforms-v0.5.2+0/FastTransforms.v0.5.2.i686-linux-musl.tar.gz"
+[[FastTransforms]]
+arch = "i686"
+git-tree-sha1 = "a4b8f48a79db9e9c2312daf6d6eeb2019e0ad464"
+os = "windows"
+
+    [[FastTransforms.download]]
+    sha256 = "0a04983b49b5ab8115012c1f49420938c3bfc772ac2d1a72e69ad1f11fe6b7ba"
+    url = "https://github.com/abhayap/FastTransforms_jll/releases/download/FastTransforms-v0.5.2+0/FastTransforms.v0.5.2.i686-w64-mingw32.tar.gz"
+[[FastTransforms]]
+arch = "powerpc64le"
+git-tree-sha1 = "c97145910e6002634a6648ab267d24db047f80d0"
+libc = "glibc"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "81ea81ff917aa45ef4df8a6d2ee9e6cc7d33e52b035880f91ab9df6b7cc717b9"
+    url = "https://github.com/abhayap/FastTransforms_jll/releases/download/FastTransforms-v0.5.2+0/FastTransforms.v0.5.2.powerpc64le-linux-gnu.tar.gz"
+[[FastTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "1285a0f7101fe23c74ee71cf477b09c89860b523"
+os = "macos"
+
+    [[FastTransforms.download]]
+    sha256 = "1f87b3e44fc4db5345feac0bd408e9917d9ab37d89df8893a36c278ce1c788a1"
+    url = "https://github.com/abhayap/FastTransforms_jll/releases/download/FastTransforms-v0.5.2+0/FastTransforms.v0.5.2.x86_64-apple-darwin.tar.gz"
+[[FastTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "4237759e11d3a90258f346458d61d59e677db399"
+libc = "glibc"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "450816be322a68562305ad733688e75a1f7b07c658f416a520f97c0027ed1424"
+    url = "https://github.com/abhayap/FastTransforms_jll/releases/download/FastTransforms-v0.5.2+0/FastTransforms.v0.5.2.x86_64-linux-gnu.tar.gz"
+[[FastTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "cf1df09ab8bdd355f0bb7e2b059db64d14fa7bec"
+libc = "musl"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "48493dca8aa58bc287e866678b84db65a6d78d5f2403884c9fc2f7e437ec9add"
+    url = "https://github.com/abhayap/FastTransforms_jll/releases/download/FastTransforms-v0.5.2+0/FastTransforms.v0.5.2.x86_64-linux-musl.tar.gz"
+[[FastTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "b1b6f740347996a25597fbb6868ebae5f0a15f02"
+os = "freebsd"
+
+    [[FastTransforms.download]]
+    sha256 = "9c41777d5c6279bcbff065eaae2d130371e499b180ea2535231ebc9421d4bacf"
+    url = "https://github.com/abhayap/FastTransforms_jll/releases/download/FastTransforms-v0.5.2+0/FastTransforms.v0.5.2.x86_64-unknown-freebsd.tar.gz"
+[[FastTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "bfdff926884278c2a8584312e58b8bf74b665e52"
+os = "windows"
+
+    [[FastTransforms.download]]
+    sha256 = "6595ec6d3c639066ebebb78fb84c013574b2ab1fb66dc0c388b1ee2cd6bb87e9"
+    url = "https://github.com/abhayap/FastTransforms_jll/releases/download/FastTransforms-v0.5.2+0/FastTransforms.v0.5.2.x86_64-w64-mingw32.tar.gz"
